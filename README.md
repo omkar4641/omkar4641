@@ -43,7 +43,7 @@ I enjoy building backend-oriented applications with Java, working with relationa
 
 A console-based Student Management System built using **Core Java, OOP, Collections Framework, File Handling, Exception Handling, and input validation**.
 
-🔗 [View Project](https://github.com/omkar4641/java-student-acadamic-marks-management-system-V1)
+🔗 [View Project](https://github.com/omkar4641/java-student-Marks-management-system-V2)
 
 ### 🗄️ Student Management System — JDBC & MySQL
 
