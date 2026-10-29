@@ -62,15 +62,11 @@ A Java-based, console-driven learning platform designed to help learners build c
 
 > The project currently runs as a console application. AI-generated contest questions and links are not independently verified by the application.
 
-### 2. Student Academic Marks Management System — Core Java
+### 2. Student Academic Marks Management System — Core Java/JDBC & MySQL
 
 A console-based student management application built to practice Java fundamentals, object-oriented programming, collections, file handling, exception handling, and input validation.
 
 🔗 **[View Project on GitHub](https://github.com/omkar4641/java-student-Marks-management-system-V2)**
-
-### 3. Student Management System — JDBC & MySQL
-
-Exploring database-driven application development using Java and JDBC, with a focus on persistent data storage, SQL queries, and CRUD operations.
 
 ---
 
